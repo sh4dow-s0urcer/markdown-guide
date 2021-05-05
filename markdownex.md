@@ -2,6 +2,9 @@
 
 It is a simple formatting language able to help us in the task of prettyfying our texts or descriptions, specially in GitHub projects.
 
+
+![Markdown](https://simpleen.io/static/39f66eacb194426c374c42395c144c70/ccaf4/logo-markdown.png)
+
 ## What is Markdown really used for?
 
 For the task of formatting paragraphs or texts inside a digital environment or a digital workspace that supports it.
@@ -14,8 +17,9 @@ Some advantages of using Markdown are:
 
 An example of a table using Markdown:
 
+
 Header 1 | Header 2
---------------------
+--------|----------
 Hi   |  Hi
 Hola | Salut
 
